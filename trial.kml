@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>HealthServe Data Layers</name>
+		
+		<Placemark>
+			<name>Area Zone 1</name>
+			<description><![CDATA[Population :4 Lakhs DBT: 23, Endocronologists:2 ]]></description>
+			<styleUrl>#poly-FF0000-1-76</styleUrl>
+			<ExtendedData>
+				 <Data name="Location">
+					<value><![CDATA[Area Zone 1]]></value>
+				 </Data>
+				  <Data name="Population">
+					<value><![CDATA[34 Lakhs]]></value>
+				 </Data>
+				 <Data name="agegroup1">
+					<displayName><![CDATA[Age Group: 0 - 30]]></displayName>
+					<value><![CDATA[90000]]></value>
+				 </Data>
+				 	 <Data name="agegroup2">
+					<displayName><![CDATA[Age Group: 30 - 60]]></displayName>
+					<value><![CDATA[90000]]></value>
+				 </Data>
+					 <Data name="agegroup3">
+					<displayName><![CDATA[Age Group: 60 - 90]]></displayName>
+					<value><![CDATA[90000]]></value>
+				 </Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8021398,18.569243,0.0 73.8020647,18.567361500000004,0.0 73.8006163,18.5655613,0.0 73.8002837,18.5655206,0.0 73.7997687,18.565337499999995,0.0 73.7995219,18.5645747,0.0 73.7996507,18.563161,0.0 73.79981160000001,18.560109799999996,0.0 73.7976551,18.5590622,0.0 73.7994897,18.5558889,0.0 73.8017857,18.5561736,0.0 73.804028,18.5567941,0.0 73.8041461,18.5561126,0.0 73.8060772,18.556031300000004,0.0 73.809135,18.5557871,0.0 73.8138986,18.555878700000004,0.0 73.8167202,18.5576586,0.0 73.8150895,18.5600183,0.0 73.8142204,18.561126900000005,0.0 73.8138449,18.5616558,0.0 73.8130403,18.5634458,0.0 73.8124609,18.564829,0.0 73.8117313,18.5665071,0.0 73.8115704,18.5669343,0.0 73.8114631,18.567544500000004,0.0 73.8101006,18.5676666,0.0 73.8092422,18.5676666,0.0 73.8078582,18.567931,0.0 73.8065815,18.5683378,0.0 73.8051438,18.5687446,0.0 73.8034594,18.5691921,0.0 73.8030195,18.5692836,0.0 73.8021398,18.569243,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 2</name>
+			<description><![CDATA[Population :4 Lakhs DBT: 23, Endocronologists:2 ]]></description>
+			<styleUrl>#poly-EEFF00-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.7785149,18.584101099999998,0.0 73.7822914,18.5777553,0.0 73.7895012,18.5725483,0.0 73.8027192,18.5865417,0.0 73.7889862,18.5865417,0.0 73.7785149,18.584101099999998,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 3</name>
+			<description><![CDATA[Population :4 Lakhs DBT: 23, Endocronologists:2 ]]></description>
+			<styleUrl>#poly-00FF22-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8025475,18.5769417,0.0 73.7895012,18.5725483,0.0 73.7877417,18.564696800000004,0.0 73.7976551,18.5590622,0.0 73.79981160000001,18.560109799999996,0.0 73.7995219,18.5645747,0.0 73.7997687,18.565337499999995,0.0 73.8017857,18.5561736,0.0 73.8020647,18.567361500000004,0.0 73.8021398,18.569243,0.0 73.8030195,18.5692836,0.0 73.8057232,18.568602199999997,0.0 73.8092422,18.5676666,0.0 73.8114631,18.567544500000004,0.0 73.8110876,18.5689684,0.0 73.8090706,18.5693752,0.0 73.8061953,18.573361900000002,0.0 73.8025475,18.5769417,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 4</name>
+			<description><![CDATA[Population :4 Lakhs DBT: 23, Endocronologists:22 ]]></description>
+			<styleUrl>#poly-00FF22-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8512,18.5272
+									73.8518,18.5268
+									73.8525,18.5265
+									73.8531,18.5258
+									73.8535,18.5249
+									73.8540,18.5240
+									73.8542,18.5233
+									73.8531,18.5228
+									73.8521,18.5223
+									73.8511,18.5222
+									73.8499,18.5224
+									73.8492,18.5226
+									73.8484,18.5230
+									73.8490,18.5237
+									73.8498,18.5250
+									73.8505,18.5262
+									73.8512,18.5272
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
+		<Placemark>
+			<name>Area Zone 5</name>
+			<description><![CDATA[Population :4 Lakhs DBT: 23, Endocronologists:12 ]]></description>
+			<styleUrl>#poly-00FF22-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8515,18.5274
+73.8527,18.5266
+73.8534,18.5260
+73.8536,18.5255
+73.8539,18.5249
+73.8540,18.5247
+73.8544,18.5239
+73.8546,18.5234
+73.8555,18.5241
+73.8560,18.5249
+73.8569,18.5255
+73.8561,18.5270
+73.8576,18.5279
+73.8574,18.5282
+73.8548,18.5287
+73.8529,18.5292
+73.8515,18.5274
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 6</name>
+			<description><![CDATA[Population :4 Lakhs DBT: 23, Endocronologists:212 ]]></description>
+			<styleUrl>#poly-00FF22-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>3</tessellate>
+						<coordinates>73.8510,18.5273
+73.8504,18.5279
+73.8500,18.5286
+73.8497,18.5300
+73.8485,18.5303
+73.8466,18.5308
+73.8446,18.5312
+73.8436,18.5291
+73.8429,18.5278
+73.8425,18.5273
+73.8424,18.5269
+73.8432,18.5267
+73.8445,18.5265
+73.8452,18.5265
+73.8463,18.5264
+73.8470,18.5263
+73.8478,18.5259
+73.8486,18.5256
+73.8489,18.5253
+73.8495,18.5251
+73.8510,18.5273
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 7</name>
+			<description><![CDATA[Population :4 Lakhs DBT: 232, Endocronologists:2 ]]></description>
+			<styleUrl>#poly-00FF22-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8424,18.5268
+73.8438,18.5264
+73.8445,18.5264
+73.8454,18.5263
+73.8464,18.5262
+73.8472,18.5259
+73.8480,18.5256
+73.8488,18.5252
+73.8494,18.5249
+73.8481,18.5229
+73.8458,18.5238
+73.8440,18.5243
+73.8428,18.5245
+73.8416,18.5247
+73.8420,18.5263
+73.8424,18.5268
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 8</name>
+			<description><![CDATA[Population :1 Lakhs DBT: 23, Endocronologists:2 ]]></description>
+			<styleUrl>#poly-00FF22-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8415,18.5245
+73.8411,18.5228
+73.8411,18.5213
+73.8413,18.5203
+73.8415,18.5190
+73.8418,18.5172
+73.8422,18.5160
+73.8432,18.5171
+73.8446,18.5188
+73.8460,18.5204
+73.8472,18.5219
+73.8480,18.5227
+73.8457,18.5237
+73.8431,18.5243
+73.8415,18.5245
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		
+		<Placemark>
+			<name>Area Zone 9</name>
+			<description><![CDATA[Population :1 Lakhs DBT: 23, cardiologiest:2 ]]></description>
+			<styleUrl>#poly-FF0000-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8538,18.5163
+73.8530,18.5163
+73.8504,18.5163
+73.8500,18.5163
+73.8493,18.5162
+73.8479,18.5161
+73.8464,18.5156
+73.8445,18.5134
+73.8443,18.5131
+73.8441,18.5128
+73.8440,18.5127
+73.8440,18.5124
+73.8440,18.5122
+73.8439,18.5121
+73.8437,18.5118
+73.8436,18.5117
+73.8434,18.5114
+73.8434,18.5112
+73.8433,18.5109
+73.8435,18.5103
+73.8435,18.5100
+73.8439,18.5090
+73.8444,18.5077
+73.8446,18.5068
+73.8448,18.5060
+73.8452,18.5045
+73.8455,18.5035
+73.8456,18.5027
+73.8458,18.5014
+73.8476,18.5013
+73.8482,18.5011
+73.8486,18.5010
+73.8495,18.5004
+73.8501,18.5000
+73.8509,18.4995
+73.8511,18.4992
+73.8516,18.4992
+73.8521,18.4993
+73.8527,18.4995
+73.8537,18.4998
+73.8539,18.5014
+73.8537,18.5026
+73.8537,18.5026
+73.8537,18.5030
+73.8536,18.5043
+73.8535,18.5051
+73.8536,18.5058
+73.8536,18.5065
+73.8536,18.5073
+73.8537,18.5092
+73.8537,18.5102
+73.8537,18.5114
+73.8538,18.5124
+73.8538,18.5137
+73.8537,18.5144
+73.8537,18.5151
+73.8538,18.5163
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 10</name>
+			<description><![CDATA[Population :1 Lakhs DBT: 23, cardiologiest:2 ]]></description>
+			<styleUrl>#poly-FF0000-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.9010,18.5064
+73.9124,18.5061
+73.9124,18.5029
+73.9134,18.5017
+73.9140,18.5013
+73.9149,18.5009
+73.9146,18.4999
+73.9146,18.4988
+73.9144,18.4980
+73.9138,18.4976
+73.9130,18.4968
+73.9129,18.4965
+73.9129,18.4955
+73.9128,18.4947
+73.9127,18.4931
+73.9126,18.4928
+73.9123,18.4914
+73.9124,18.4893
+73.9124,18.4885
+73.9124,18.4877
+73.9123,18.4869
+73.9125,18.4863
+73.9125,18.4860
+73.9117,18.4841
+73.9093,18.4824
+73.9088,18.4835
+73.9021,18.4849
+73.9005,18.4863
+73.8995,18.4870
+73.8969,18.4873
+73.8958,18.4877
+73.8956,18.4893
+73.8947,18.4918
+73.8945,18.4943
+73.8957,18.4981
+73.8966,18.4997
+73.8977,18.5024
+73.8978,18.5042
+73.8984,18.5051
+73.8984,18.5066
+73.9010,18.5064
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 11</name>
+			<description><![CDATA[Population :1 Lakhs DBT: 23, cardiologiest:2 ]]></description>
+			<styleUrl>#poly-FF0000-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.9193,18.5183
+73.9225,18.5182
+73.9228,18.5188
+73.9239,18.5191
+73.9259,18.5194
+73.9279,18.5194
+73.9309,18.5199
+73.9323,18.5199
+73.9325,18.5184
+73.9328,18.5160
+73.9325,18.5147
+73.9324,18.5135
+73.9325,18.5119
+73.9320,18.5113
+73.9304,18.5094
+73.9297,18.5085
+73.9260,18.5090
+73.9222,18.5092
+73.9200,18.5148
+73.9193,18.5183
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 12</name>
+			<description><![CDATA[Population :1 Lakhs DBT: 23, cardiologiest:2 ]]></description>
+			<styleUrl>#poly-FF0000-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8538,18.5082
+73.8541,18.5084
+73.8548,18.5085
+73.8553,18.5083
+73.8558,18.5083
+73.8562,18.5083
+73.8565,18.5083
+73.8568,18.5083
+73.8571,18.5083
+73.8574,18.5084
+73.8575,18.5085
+73.8577,18.5085
+73.8578,18.5086
+73.8580,18.5086
+73.8579,18.5075
+73.8580,18.5070
+73.8581,18.5064
+73.8583,18.5060
+73.8586,18.5057
+73.8587,18.5053
+73.8589,18.5047
+73.8590,18.5043
+73.8590,18.5039
+73.8590,18.5035
+73.8588,18.5029
+73.8587,18.5025
+73.8586,18.5017
+73.8584,18.5007
+73.8582,18.5007
+73.8579,18.5007
+73.8557,18.5012
+73.8541,18.5015
+73.8541,18.5016
+73.8539,18.5024
+73.8539,18.5026
+73.8537,18.5041
+73.8537,18.5051
+73.8537,18.5059
+73.8538,18.5071
+73.8538,18.5082
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 13</name>
+			<description><![CDATA[Population :1 Lakhs DBT: 23, cardiologiest:2 ]]></description>
+			<styleUrl>#poly-FF0000-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8539,18.5165
+73.8543,18.5166
+73.8548,18.5167
+73.8553,18.5168
+73.8555,18.5168
+73.8557,18.5168
+73.8559,18.5168
+73.8561,18.5168
+73.8562,18.5168
+73.8562,18.5160
+73.8563,18.5152
+73.8567,18.5145
+73.8570,18.5140
+73.8572,18.5136
+73.8574,18.5132
+73.8575,18.5128
+73.8577,18.5121
+73.8578,18.5116
+73.8578,18.5113
+73.8578,18.5110
+73.8578,18.5103
+73.8579,18.5096
+73.8579,18.5090
+73.8580,18.5087
+73.8574,18.5086
+73.8573,18.5085
+73.8573,18.5084
+73.8568,18.5084
+73.8567,18.5084
+73.8556,18.5084
+73.8554,18.5084
+73.8550,18.5085
+73.8548,18.5086
+73.8547,18.5086
+73.8538,18.5086
+73.8539,18.5099
+73.8539,18.5111
+73.8539,18.5119
+73.8540,18.5128
+73.8539,18.5140
+73.8539,18.5152
+73.8539,18.5165
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Area Zone 14</name>
+			<description><![CDATA[Population :1 Lakhs DBT: 23, cardiologiest:2 ]]></description>
+			<styleUrl>#poly-FF0000-1-76</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>73.8540,18.5167
+73.8548,18.5168
+73.8552,18.5168
+73.8555,18.5169
+73.8561,18.5169
+73.8562,18.5169
+73.8560,18.5196
+73.8560,18.5202
+73.8558,18.5205
+73.8556,18.5207
+73.8553,18.5211
+73.8553,18.5209
+73.8552,18.5208
+73.8551,18.5207
+73.8549,18.5205
+73.8546,18.5204
+73.8546,18.5202
+73.8546,18.5201
+73.8546,18.5199
+73.8546,18.5197
+73.8546,18.5195
+73.8546,18.5193
+73.8546,18.5192
+73.8546,18.5190
+73.8546,18.5189
+73.8546,18.5188
+73.8546,18.5186
+73.8546,18.5185
+73.8545,18.5185
+73.8544,18.5185
+73.8543,18.5184
+73.8542,18.5184
+73.8542,18.5183
+73.8541,18.5182
+73.8541,18.5181
+73.8541,18.5181
+73.8541,18.5179
+73.8541,18.5178
+73.8541,18.5176
+73.8540,18.5174
+73.8540,18.5173
+73.8540,18.5171
+73.8540,18.5167
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-00FF22-1-76'>
+			<LineStyle>
+				<color>ff22FF00</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C22FF00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-EEFF00-1-76'>
+			<LineStyle>
+				<color>ff00FFEE</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00FFEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FF0000-1-76'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C0000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

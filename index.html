@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>KML Layers</title>
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+	
+ <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script> 
+   
+<!-- <script>
+function initialize() {
+  var pune = new google.maps.LatLng(18.5203,73.8567);
+  var mapOptions = {
+    zoom: 11,
+    center: pune
+  }
+
+  var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+var ctaLayer = new google.maps.KmlLayer({
+   driveFileId: "0B9YIJ4yk9K-hbzJoX1BHWTcwT2M"
+ });
+
+  ctaLayer.setMap(map);
+	 
+	 
+  
+} 
+  google.maps.event.addDomListener(window, 'load', initialize);
+
+
+    </script> -->
+    <script>
+		var map;
+function initialize() {
+  map = new google.maps.Map(document.getElementById('map-canvas'), {
+    zoom: 13,
+    center: {lat: 18.5203, lng: 73.8567}
+  });
+
+  // Load GeoJSON.
+  map.data.loadGeoJson('geojson.json');
+
+  // Color each letter gray. Change the color when the isColorful property
+  // is set to true.
+  map.data.setStyle(function(feature) {
+    var color = 'gray';
+    if (feature.getProperty('isColorful')) {
+      color = feature.getProperty('color');
+    }
+    return /** @type {google.maps.Data.StyleOptions} */({
+      fillColor: color,
+      strokeColor: color,
+      strokeWeight: 2
+    });
+  });
+
+  // When the user clicks, set 'isColorful', changing the color of the letters.
+  map.data.addListener('click', function(event) {
+    event.feature.setProperty('isColorful', true);
+  });
+
+  // When the user hovers, tempt them to click by outlining the letters.
+  // Call revertStyle() to remove all overrides. This will use the style rules
+  // defined in the function passed to setStyle()
+  map.data.addListener('mouseover', function(event) {
+     var HTML_Name = event.feature.getProperty("Name");
+     var HTML_Date = event.feature.getProperty("Date");
+     var HTML_Speciality = event.feature.getProperty("Speciality");
+     var HTML_Content = event.feature.getProperty("Description");
+    infowindow.setContent("<div style='width:150px; text-align: center;'><h2>"+HTML_Name+"</h2><hr><p>"+HTML_Date+"</p><p>"+HTML_Speciality+"</p><p> "+HTML_Content+"</p></div>");
+     
+	map.data.revertStyle();
+    map.data.overrideStyle(event.feature, {strokeWeight: 8});
+	//infowindow.setPosition(event.feature.getGeometry().get());
+	infowindow.setPosition(event.latLng);
+	infowindow.setOptions(
+			{
+				pixelOffset: new google.maps.Size(0,0)
+			}
+		);
+	infowindow.open(map);
+  });
+
+  map.data.addListener('mouseout', function(event) {
+    map.data.revertStyle();
+	infowindow.close();
+  });
+
+  var contentString = '<div id="content">'+
+      'Trying'+
+      '</div>';
+	   
+  
+
+  var infowindow = new google.maps.InfoWindow({
+      content: contentString
+  });
+  
+  
+  }
+
+google.maps.event.addDomListener(window, 'load', initialize);
+	
+	</script>
+	
+	
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+
+  </body>
+</html>

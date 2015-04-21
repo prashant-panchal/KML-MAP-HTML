@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+  <name>Area</name>
+  <description>Pune area distrubution</description>
+  <Style id="style1">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 1</name>
+   <description>12 Specialist and 28 Labs available</description>
+   <styleUrl>#style1</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8512,18.5272
+73.8518,18.5268
+73.8525,18.5265
+73.8531,18.5258
+73.8535,18.5249
+73.8540,18.5240
+73.8542,18.5233
+73.8531,18.5228
+73.8521,18.5223
+73.8511,18.5222
+73.8499,18.5224
+73.8492,18.5226
+73.8484,18.5230
+73.8490,18.5237
+73.8498,18.5250
+73.8505,18.5262
+73.8512,18.5272
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style2">
+   <LineStyle>
+    <color>FF69B4FF</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>FF69B4FF</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Labs & Destists</name>
+   <description>212 Destist</description>
+   <styleUrl>#style2</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8515,18.5274
+73.8527,18.5266
+73.8534,18.5260
+73.8536,18.5255
+73.8539,18.5249
+73.8540,18.5247
+73.8544,18.5239
+73.8546,18.5234
+73.8555,18.5241
+73.8560,18.5249
+73.8569,18.5255
+73.8561,18.5270
+73.8576,18.5279
+73.8574,18.5282
+73.8548,18.5287
+73.8529,18.5292
+73.8515,18.5274
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style3">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 3</name>
+   <description>48 GPs & 12 Specilist Doctors </description>
+   <styleUrl>#style3</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8510,18.5273
+73.8504,18.5279
+73.8500,18.5286
+73.8497,18.5300
+73.8485,18.5303
+73.8466,18.5308
+73.8446,18.5312
+73.8436,18.5291
+73.8429,18.5278
+73.8425,18.5273
+73.8424,18.5269
+73.8432,18.5267
+73.8445,18.5265
+73.8452,18.5265
+73.8463,18.5264
+73.8470,18.5263
+73.8478,18.5259
+73.8486,18.5256
+73.8489,18.5253
+73.8495,18.5251
+73.8510,18.5273
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style4">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 4</name>
+   <description>13% Diabetic Patients</description>
+   <styleUrl>#style4</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8424,18.5268
+73.8438,18.5264
+73.8445,18.5264
+73.8454,18.5263
+73.8464,18.5262
+73.8472,18.5259
+73.8480,18.5256
+73.8488,18.5252
+73.8494,18.5249
+73.8481,18.5229
+73.8458,18.5238
+73.8440,18.5243
+73.8428,18.5245
+73.8416,18.5247
+73.8420,18.5263
+73.8424,18.5268
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style5">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 5</name>
+   <description>23% medicals And 12 Hospitals </description>
+   <styleUrl>#style5</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8415,18.5245
+73.8411,18.5228
+73.8411,18.5213
+73.8413,18.5203
+73.8415,18.5190
+73.8418,18.5172
+73.8422,18.5160
+73.8432,18.5171
+73.8446,18.5188
+73.8460,18.5204
+73.8472,18.5219
+73.8480,18.5227
+73.8457,18.5237
+73.8431,18.5243
+73.8415,18.5245
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style6">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 6</name>
+   <description></description>
+   <styleUrl>#style6</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8424,18.5155
+73.8427,18.5144
+73.8437,18.5132
+73.8463,18.5155
+73.8477,18.5165
+73.8479,18.5170
+73.8486,18.5195
+73.8495,18.5206
+73.8491,18.5222
+73.8481,18.5224
+73.8449,18.5187
+73.8424,18.5155
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style7">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 7</name>
+   <description></description>
+   <styleUrl>#style7</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8496,18.5222
+73.8494,18.5220
+73.8497,18.5208
+73.8498,18.5200
+73.8503,18.5200
+73.8507,18.5200
+73.8509,18.5206
+73.8517,18.5208
+73.8528,18.5209
+73.8533,18.5210
+73.8537,18.5208
+73.8538,18.5204
+73.8543,18.5205
+73.8546,18.5207
+73.8550,18.5212
+73.8544,18.5230
+73.8528,18.5223
+73.8517,18.5221
+73.8508,18.5220
+73.8496,18.5222
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style8">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 8</name>
+   <description></description>
+   <styleUrl>#style8</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8495,18.5202
+73.8496,18.5199
+73.8486,18.5192
+73.8484,18.5180
+73.8480,18.5166
+73.8481,18.5162
+73.8496,18.5164
+73.8499,18.5165
+73.8502,18.5165
+73.8537,18.5167
+73.8540,18.5185
+73.8544,18.5187
+73.8544,18.5202
+73.8540,18.5203
+73.8538,18.5203
+73.8536,18.5208
+73.8532,18.5209
+73.8522,18.5208
+73.8517,18.5207
+73.8513,18.5206
+73.8509,18.5203
+73.8508,18.5201
+73.8499,18.5199
+73.8495,18.5202
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style9">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 9</name>
+   <description></description>
+   <styleUrl>#style9</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8538,18.5163
+73.8530,18.5163
+73.8504,18.5163
+73.8500,18.5163
+73.8493,18.5162
+73.8479,18.5161
+73.8464,18.5156
+73.8445,18.5134
+73.8443,18.5131
+73.8441,18.5128
+73.8440,18.5127
+73.8440,18.5124
+73.8440,18.5122
+73.8439,18.5121
+73.8437,18.5118
+73.8436,18.5117
+73.8434,18.5114
+73.8434,18.5112
+73.8433,18.5109
+73.8435,18.5103
+73.8435,18.5100
+73.8439,18.5090
+73.8444,18.5077
+73.8446,18.5068
+73.8448,18.5060
+73.8452,18.5045
+73.8455,18.5035
+73.8456,18.5027
+73.8458,18.5014
+73.8476,18.5013
+73.8482,18.5011
+73.8486,18.5010
+73.8495,18.5004
+73.8501,18.5000
+73.8509,18.4995
+73.8511,18.4992
+73.8516,18.4992
+73.8521,18.4993
+73.8527,18.4995
+73.8537,18.4998
+73.8539,18.5014
+73.8537,18.5026
+73.8537,18.5026
+73.8537,18.5030
+73.8536,18.5043
+73.8535,18.5051
+73.8536,18.5058
+73.8536,18.5065
+73.8536,18.5073
+73.8537,18.5092
+73.8537,18.5102
+73.8537,18.5114
+73.8538,18.5124
+73.8538,18.5137
+73.8537,18.5144
+73.8537,18.5151
+73.8538,18.5163
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style10">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 10</name>
+   <description></description>
+   <styleUrl>#style10</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8540,18.5167
+73.8548,18.5168
+73.8552,18.5168
+73.8555,18.5169
+73.8561,18.5169
+73.8562,18.5169
+73.8560,18.5196
+73.8560,18.5202
+73.8558,18.5205
+73.8556,18.5207
+73.8553,18.5211
+73.8553,18.5209
+73.8552,18.5208
+73.8551,18.5207
+73.8549,18.5205
+73.8546,18.5204
+73.8546,18.5202
+73.8546,18.5201
+73.8546,18.5199
+73.8546,18.5197
+73.8546,18.5195
+73.8546,18.5193
+73.8546,18.5192
+73.8546,18.5190
+73.8546,18.5189
+73.8546,18.5188
+73.8546,18.5186
+73.8546,18.5185
+73.8545,18.5185
+73.8544,18.5185
+73.8543,18.5184
+73.8542,18.5184
+73.8542,18.5183
+73.8541,18.5182
+73.8541,18.5181
+73.8541,18.5181
+73.8541,18.5179
+73.8541,18.5178
+73.8541,18.5176
+73.8540,18.5174
+73.8540,18.5173
+73.8540,18.5171
+73.8540,18.5167
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style11">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 11</name>
+   <description></description>
+   <styleUrl>#style11</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8539,18.5165
+73.8543,18.5166
+73.8548,18.5167
+73.8553,18.5168
+73.8555,18.5168
+73.8557,18.5168
+73.8559,18.5168
+73.8561,18.5168
+73.8562,18.5168
+73.8562,18.5160
+73.8563,18.5152
+73.8567,18.5145
+73.8570,18.5140
+73.8572,18.5136
+73.8574,18.5132
+73.8575,18.5128
+73.8577,18.5121
+73.8578,18.5116
+73.8578,18.5113
+73.8578,18.5110
+73.8578,18.5103
+73.8579,18.5096
+73.8579,18.5090
+73.8580,18.5087
+73.8574,18.5086
+73.8573,18.5085
+73.8573,18.5084
+73.8568,18.5084
+73.8567,18.5084
+73.8556,18.5084
+73.8554,18.5084
+73.8550,18.5085
+73.8548,18.5086
+73.8547,18.5086
+73.8538,18.5086
+73.8539,18.5099
+73.8539,18.5111
+73.8539,18.5119
+73.8540,18.5128
+73.8539,18.5140
+73.8539,18.5152
+73.8539,18.5165
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style12">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 12</name>
+   <description></description>
+   <styleUrl>#style12</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8538,18.5082
+73.8541,18.5084
+73.8548,18.5085
+73.8553,18.5083
+73.8558,18.5083
+73.8562,18.5083
+73.8565,18.5083
+73.8568,18.5083
+73.8571,18.5083
+73.8574,18.5084
+73.8575,18.5085
+73.8577,18.5085
+73.8578,18.5086
+73.8580,18.5086
+73.8579,18.5075
+73.8580,18.5070
+73.8581,18.5064
+73.8583,18.5060
+73.8586,18.5057
+73.8587,18.5053
+73.8589,18.5047
+73.8590,18.5043
+73.8590,18.5039
+73.8590,18.5035
+73.8588,18.5029
+73.8587,18.5025
+73.8586,18.5017
+73.8584,18.5007
+73.8582,18.5007
+73.8579,18.5007
+73.8557,18.5012
+73.8541,18.5015
+73.8541,18.5016
+73.8539,18.5024
+73.8539,18.5026
+73.8537,18.5041
+73.8537,18.5051
+73.8537,18.5059
+73.8538,18.5071
+73.8538,18.5082
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style13">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 13</name>
+   <description></description>
+   <styleUrl>#style13</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.9193,18.5183
+73.9225,18.5182
+73.9228,18.5188
+73.9239,18.5191
+73.9259,18.5194
+73.9279,18.5194
+73.9309,18.5199
+73.9323,18.5199
+73.9325,18.5184
+73.9328,18.5160
+73.9325,18.5147
+73.9324,18.5135
+73.9325,18.5119
+73.9320,18.5113
+73.9304,18.5094
+73.9297,18.5085
+73.9260,18.5090
+73.9222,18.5092
+73.9200,18.5148
+73.9193,18.5183
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style14">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 14</name>
+   <description></description>
+   <styleUrl>#style14</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.9010,18.5064
+73.9124,18.5061
+73.9124,18.5029
+73.9134,18.5017
+73.9140,18.5013
+73.9149,18.5009
+73.9146,18.4999
+73.9146,18.4988
+73.9144,18.4980
+73.9138,18.4976
+73.9130,18.4968
+73.9129,18.4965
+73.9129,18.4955
+73.9128,18.4947
+73.9127,18.4931
+73.9126,18.4928
+73.9123,18.4914
+73.9124,18.4893
+73.9124,18.4885
+73.9124,18.4877
+73.9123,18.4869
+73.9125,18.4863
+73.9125,18.4860
+73.9117,18.4841
+73.9093,18.4824
+73.9088,18.4835
+73.9021,18.4849
+73.9005,18.4863
+73.8995,18.4870
+73.8969,18.4873
+73.8958,18.4877
+73.8956,18.4893
+73.8947,18.4918
+73.8945,18.4943
+73.8957,18.4981
+73.8966,18.4997
+73.8977,18.5024
+73.8978,18.5042
+73.8984,18.5051
+73.8984,18.5066
+73.9010,18.5064
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style15">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 15</name>
+   <description></description>
+   <styleUrl>#style15</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8169,18.4657
+73.8240,18.4585
+73.8293,18.4513
+73.8352,18.4454
+73.8384,18.4412
+73.8377,18.4347
+73.8337,18.4305
+73.8258,18.4260
+73.8155,18.4216
+73.8047,18.4202
+73.8013,18.4226
+73.7987,18.4290
+73.7963,18.4317
+73.7943,18.4370
+73.7922,18.4388
+73.7906,18.4412
+73.7892,18.4453
+73.7904,18.4488
+73.7921,18.4512
+73.7950,18.4527
+73.7968,18.4548
+73.7989,18.4556
+73.8010,18.4564
+73.8025,18.4570
+73.8047,18.4574
+73.8092,18.4585
+73.8110,18.4591
+73.8152,18.4626
+73.8160,18.4640
+73.8169,18.4657
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style16">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 16</name>
+   <description>Aundh
+</description>
+   <styleUrl>#style16</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8092,18.5604
+73.8120,18.5605
+73.8134,18.5606
+73.8141,18.5611
+73.8180,18.5558
+73.8212,18.5517
+73.8248,18.5465
+73.8268,18.5439
+73.8279,18.5426
+73.8262,18.5426
+73.8244,18.5442
+73.8215,18.5457
+73.8199,18.5463
+73.8175,18.5471
+73.8143,18.5483
+73.8099,18.5501
+73.8096,18.5542
+73.8094,18.5565
+73.8092,18.5604
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style17">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 17</name>
+   <description>Wireless Colony</description>
+   <styleUrl>#style17</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8026,18.5656
+73.8028,18.5620
+73.8033,18.5604
+73.8071,18.5606
+73.8075,18.5651
+73.8026,18.5656
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style18">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 18</name>
+   <description>Khadaki Bazaar</description>
+   <styleUrl>#style18</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8416,18.5608
+73.8399,18.5590
+73.8398,18.5550
+73.8400,18.5505
+73.8390,18.5474
+73.8394,18.5452
+73.8467,18.5451
+73.8471,18.5468
+73.8487,18.5477
+73.8501,18.5487
+73.8507,18.5492
+73.8468,18.5564
+73.8457,18.5581
+73.8440,18.5594
+73.8425,18.5612
+73.8416,18.5608
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style19">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 19</name>
+   <description>Camp Area</description>
+   <styleUrl>#style19</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8798,18.5182
+73.8803,18.5180
+73.8806,18.5164
+73.8807,18.5156
+73.8810,18.5135
+73.8814,18.5108
+73.8820,18.5105
+73.8825,18.5105
+73.8826,18.5099
+73.8833,18.5085
+73.8838,18.5074
+73.8840,18.5067
+73.8797,18.5070
+73.8793,18.5071
+73.8784,18.5071
+73.8762,18.5080
+73.8746,18.5085
+73.8724,18.5094
+73.8724,18.5103
+73.8722,18.5108
+73.8713,18.5140
+73.8712,18.5164
+73.8714,18.5164
+73.8713,18.5175
+73.8713,18.5199
+73.8722,18.5201
+73.8725,18.5203
+73.8798,18.5182
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style20">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 20</name>
+   <description>Satara Road Katraj </description>
+   <styleUrl>#style20</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8537,18.4679
+73.8572,18.4683
+73.8580,18.4623
+73.8577,18.4586
+73.8583,18.4559
+73.8583,18.4530
+73.8581,18.4483
+73.8367,18.4549
+73.8362,18.4554
+73.8356,18.4575
+73.8362,18.4606
+73.8365,18.4634
+73.8388,18.4646
+73.8401,18.4633
+73.8420,18.4631
+73.8419,18.4648
+73.8458,18.4651
+73.8443,18.4708
+73.8438,18.4722
+73.8442,18.4744
+73.8443,18.4795
+73.8456,18.4820
+73.8441,18.4818
+73.8437,18.4820
+73.8432,18.4848
+73.8431,18.4868
+73.8417,18.4879
+73.8439,18.4899
+73.8457,18.4908
+73.8485,18.4915
+73.8498,18.4918
+73.8573,18.4917
+73.8572,18.4881
+73.8574,18.4836
+73.8570,18.4788
+73.8566,18.4766
+73.8560,18.4756
+73.8562,18.4739
+73.8552,18.4742
+73.8546,18.4722
+73.8538,18.4698
+73.8537,18.4679
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style21">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 21</name>
+   <description>Kothrud and Warje</description>
+   <styleUrl>#style21</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.7898,18.5077
+73.7942,18.5083
+73.7971,18.5074
+73.8019,18.5070
+73.8060,18.5070
+73.8104,18.5083
+73.8130,18.5094
+73.8155,18.5095
+73.8190,18.5104
+73.8213,18.5098
+73.8231,18.5076
+73.8241,18.5061
+73.8247,18.5054
+73.8192,18.5025
+73.8165,18.5022
+73.8140,18.4998
+73.8137,18.4968
+73.8137,18.4950
+73.8158,18.4930
+73.8157,18.4917
+73.8154,18.4899
+73.8140,18.4883
+73.8108,18.4842
+73.8087,18.4821
+73.8069,18.4807
+73.8056,18.4796
+73.7970,18.4868
+73.7928,18.4899
+73.7890,18.4926
+73.7883,18.4965
+73.7898,18.4978
+73.7922,18.5009
+73.7928,18.5048
+73.7898,18.5077
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style22">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 22</name>
+   <description>Bund garden, Sangamwadi</description>
+   <styleUrl>#style22</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8637,18.5301
+73.8669,18.5305
+73.8722,18.5293
+73.8764,18.5319
+73.8787,18.5341
+73.8831,18.5407
+73.8834,18.5450
+73.8790,18.5437
+73.8770,18.5446
+73.8744,18.5424
+73.8701,18.5412
+73.8650,18.5387
+73.8622,18.5356
+73.8607,18.5330
+73.8637,18.5301
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+  <Style id="style23">
+   <LineStyle>
+    <color>990000ff</color>
+    <width>2</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>330000ff</color>
+   </PolyStyle>
+  </Style>
+  <Placemark>
+   <name>Polygon 23</name>
+   <description>Koregaon Park
+</description>
+   <styleUrl>#style23</styleUrl>
+   <Polygon>
+    <altitudeMode>relative</altitudeMode>
+    <LinearRing>
+     <coordinates>
+73.8867,18.5354
+73.8861,18.5337
+73.8863,18.5328
+73.8879,18.5315
+73.8902,18.5313
+73.8919,18.5303
+73.8952,18.5292
+73.8968,18.5281
+73.8976,18.5270
+73.8988,18.5273
+73.9001,18.5284
+73.9029,18.5292
+73.9049,18.5292
+73.9065,18.5302
+73.9079,18.5336
+73.9104,18.5371
+73.9104,18.5406
+73.9084,18.5406
+73.9049,18.5410
+73.9030,18.5405
+73.8993,18.5413
+73.8946,18.5415
+73.8907,18.5431
+73.8876,18.5422
+73.8867,18.5354
+    </coordinates>
+    </LinearRing>
+   </Polygon>
+  </Placemark>
+ </Document>
+</kml>
